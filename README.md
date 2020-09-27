@@ -1,4 +1,4 @@
-# Monitor
+# Bot
 
 A relatively simplistic Discord bot that has personal uses.
 
