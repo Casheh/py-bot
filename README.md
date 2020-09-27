@@ -1,7 +1,21 @@
-# Casheh Bot
+# Monitor
 
-A relatively simplistic Discord bot built using the Discord.py wrapper. The current key features are:
+A relatively simplistic Discord bot that has personal uses.
 
-  - Test
-  - Test2
-  - Test3
+# Requirements
+
+Python 3.5 or higher.
+
+# Key Features
+
+  - Implementation of the Spotify class part of discord.py
+  - Moderation cog with clear/mute/ban features
+  - Several 'fun' commands such as
+    - 8ball command
+    - Coin flip command
+    - Ping roulette command
+    - Image sends from a link
+
+# Additional information
+
+The idea behind the creation of this bot was gain familiarity with the Discord API wrapper.
