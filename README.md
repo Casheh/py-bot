@@ -1,6 +1,6 @@
 # Bot
 
-A relatively simplistic Discord bot that has personal uses.
+A simplistic Discord bot that has personal uses.
 
 # Requirements
 
